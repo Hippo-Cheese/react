@@ -1,0 +1,12 @@
+/* Add your CSS styles here */
+.testimonial {
+  margin-bottom: 20px;
+}
+
+.star {
+  color: #ccc;
+}
+
+.star.filled {
+  color: orange;
+}
